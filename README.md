@@ -1,2 +1,2 @@
-# web
-Let us experience innovative web ideas
+# django
+Let us experience innovative django ideas
